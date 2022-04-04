@@ -10,14 +10,14 @@
     "image": "https://raw.githubusercontent.com/rahmanshaon/review-fakedata/main/img/02.jpg",
     "id": 2,
     "name": "John Abraham",
-    "message": "Best camera ever",
+    "message": "Having a great experience with it",
     "rate": 4.7
   },
   {
     "image": "https://raw.githubusercontent.com/rahmanshaon/review-fakedata/main/img/03.jpg",
     "id": 3,
     "name": "Elizabeth Anny",
-    "message": "Having a great experience with it",
+    "message": "I like this camera lot, it's has a very good picture quality",
     "rate": 4.6
   },
   {
@@ -31,7 +31,7 @@
     "image": "https://raw.githubusercontent.com/rahmanshaon/review-fakedata/main/img/05.jpg",
     "id": 5,
     "name": "Samanta Franklin",
-    "message": "I like this camera lot, it's has a very good picture quality",
+    "message": "Best camera ever",
     "rate": 4.9
   },
   {
