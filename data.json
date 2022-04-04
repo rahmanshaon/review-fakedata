@@ -3,63 +3,63 @@
     "image": "https://raw.githubusercontent.com/rahmanshaon/review-fakedata/main/img/01.jpg",
     "id": 1,
     "name": "Maria D'Souza",
-    "message": "Sei product bodda, sei sei",
+    "message": "Started Using it couple of weeks ago, it's a very good product ",
     "rate": 4.8
   },
   {
     "image": "https://raw.githubusercontent.com/rahmanshaon/review-fakedata/main/img/02.jpg",
     "id": 2,
     "name": "John Abraham",
-    "message": "Sei product bodda, sei sei",
+    "message": "Best camera ever",
     "rate": 4.7
   },
   {
     "image": "https://raw.githubusercontent.com/rahmanshaon/review-fakedata/main/img/03.jpg",
     "id": 3,
     "name": "Elizabeth Anny",
-    "message": "Sei product bodda, sei sei",
+    "message": "Having a great experience with it",
     "rate": 4.6
   },
   {
     "image": "https://raw.githubusercontent.com/rahmanshaon/review-fakedata/main/img/04.jpg",
     "id": 4,
     "name": "Robert Willy",
-    "message": "Sei product bodda, sei sei",
+    "message": "The best product ever. and their services are good too.",
     "rate": 4.8
   },
   {
     "image": "https://raw.githubusercontent.com/rahmanshaon/review-fakedata/main/img/05.jpg",
     "id": 5,
     "name": "Samanta Franklin",
-    "message": "Sei product bodda, sei sei",
+    "message": "I like this camera lot, it's has a very good picture quality",
     "rate": 4.9
   },
   {
     "image": "https://raw.githubusercontent.com/rahmanshaon/review-fakedata/main/img/06.jpg",
     "id": 6,
     "name": "Stefan Stefancik",
-    "message": "Sei product bodda, sei sei",
+    "message": "Very good product. recommended for everyone",
     "rate": 4.7
   },
   {
     "image": "https://raw.githubusercontent.com/rahmanshaon/review-fakedata/main/img/07.jpg",
     "id": 7,
     "name": "Susane Johnson",
-    "message": "Sei product bodda, sei sei",
+    "message": "Bought it a few days ago. It is working well, for the time being, let's see.",
     "rate": 4.5
   },
   {
     "image": "https://raw.githubusercontent.com/rahmanshaon/review-fakedata/main/img/08.jpg",
     "id": 8,
     "name": "Mosh Kelly",
-    "message": "Sei product bodda, sei sei",
+    "message": "Very good product and picture quality are very nice.",
     "rate": 4.7
   },
   {
     "image": "https://raw.githubusercontent.com/rahmanshaon/review-fakedata/main/img/09.jpg",
     "id": 9,
     "name": "Lukas Rychvalsky",
-    "message": "Sei product bodda, sei sei",
+    "message": "Best camera ever and services are good. recommended for everyone",
     "rate": 4.9
   }
 ]
